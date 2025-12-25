@@ -12,7 +12,4 @@ Install All the reqiurements by doing: ```sudo apt update -y && sudo apt upgrade
 
 
 This is an open source project, You cannot use this application without my permission for commercial use.
-for more info visit: https://yghosting.xyz/legal-projects or email us at anderson-legal@kirkland.com
-
-
-**This Project is legally copyrighted by YGHosting Industries Limited 2022-2025, complying under all legal requirements.**
+for more info visit: https://yghosting.xyz/legal-projects.
